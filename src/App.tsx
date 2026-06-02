@@ -1,30 +1,16 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import { 
   Sparkles, 
-  Flame, 
   Droplet, 
-  Skull, 
-  Compass, 
-  Shield, 
-  Zap, 
   BookOpen, 
   Wand2, 
   Hammer, 
   Gem, 
   Scroll, 
   Volume2, 
-  Eye, 
-  Lock, 
-  RotateCcw, 
   Plus, 
-  Trash2, 
-  ChevronRight, 
   ShieldAlert,
-  Moon,
-  Sun,
-  User,
-  Activity,
-  Award
+  Activity
 } from 'lucide-react';
 
 // === ข้อมูลคัมภีร์เวทมนตร์ (Spell Codex) ===
